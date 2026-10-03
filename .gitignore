@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# Runtime data: viewing history and logs, rewritten every minute
+series-rotation/state/
+series-rotation/*.log
+series-rotation/*.log.*
